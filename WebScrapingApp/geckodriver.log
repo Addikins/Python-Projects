@@ -1,0 +1,452 @@
+1588841367866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\addik\\AppData\\Local\\Temp\\rust_mozprofileK4xZol"
+1588841368598	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588841368895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588841368895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588841368895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588841368895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588841371016	Marionette	INFO	Listening on port 50128
+1588841371045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.mindtap.cengage.com/thirdparty/jquery/2.0.3/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ng.cengage.com/static/nb/ui/evo/bundle.min.js, line 1: TypeError: e.props.userProfileData is undefined
+JavaScript error: https://ok7static.oktacdn.com/assets/js/jquery.livequery.0574502b6eb78a68a228368046e7c437.js, line 226: ReferenceError: jQuery is not defined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static.mindtap.cengage.com/thirdparty/jquery/2.0.3/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ng.cengage.com/static/nb/ui/evo/bundle.min.js, line 1: Script terminated by timeout at:
+t/n.checkInterval@https://ng.cengage.com/static/nb/ui/evo/bundle.min.js:1:877139
+
+JavaScript warning: https://static.mindtap.cengage.com/thirdparty/jquery/2.0.3/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.delmarlearning.com/iq/ui/web/lib/toastr/toastr.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1588841528992	Marionette	INFO	Stopped listening on port 50128
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588841605017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\addik\\AppData\\Local\\Temp\\rust_mozprofileyOU4Fk"
+1588841605299	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588841605589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588841605589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588841605589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588841605589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588841607654	Marionette	INFO	Listening on port 50304
+1588841607707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.mindtap.cengage.com/thirdparty/jquery/2.0.3/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ng.cengage.com/static/nb/ui/evo/bundle.min.js, line 1: TypeError: e.props.userProfileData is undefined
+JavaScript error: https://ok7static.oktacdn.com/assets/js/jquery.livequery.0574502b6eb78a68a228368046e7c437.js, line 226: ReferenceError: jQuery is not defined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1588841642251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\addik\\AppData\\Local\\Temp\\rust_mozprofilesh6441"
+1588841642526	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588841642834	addons.webextension.screenshots@mozilla.orJavaScript warning: https://cdn.pendo.io/agent/static/e15c351c-1841-4a92-556f-0a2e0251934d/pendo.js, line 10: Script terminated by timeout at:
+getTarget@https://cdn.pendo.io/agent/static/e15c351c-1841-4a92-556f-0a2e0251934d/pendo.js:10:29632
+handle_event@https://cdn.pendo.io/agent/static/e15c351c-1841-4a92-556f-0a2e0251934d/pendo.js:10:30031
+
+JavaScript warning: https://static.mindtap.cengage.com/thirdparty/jquery/2.0.3/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ng.cengage.com/static/nb/ui/evo/bundle.min.js, line 1: TypeError: e.props.userProfileData is undefined
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/session.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/chasitor.esw.min.js, line 1: TypeError: A.broadcastAPI is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1588841688145	Marionette	INFO	Stopped listening on port 50304
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+hild][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588890858960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\addik\\AppData\\Local\\Temp\\rust_mozprofileMV2Es7"
+1588890859565	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588890859869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588890859869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588890859870	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588890859870	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588890862126	Marionette	INFO	Listening on port 50832
+1588890862133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.mindtap.cengage.com/thirdparty/jquery/2.0.3/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ng.cengage.com/static/nb/ui/evo/bundle.min.js, line 1: TypeError: e.props.userProfileData is undefined
+JavaScript error: https://ok7static.oktacdn.com/assets/js/jquery.livequery.0574502b6eb78a68a228368046e7c437.js, line 226: ReferenceError: jQuery is not defined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/session.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/chasitor.esw.min.js, line 1: TypeError: A.broadcastAPI is undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.mindtap.cengage.com/thirdparty/jquery/2.0.3/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.delmarlearning.com/iq/ui/web/lib/toastr/toastr.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/session.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/chasitor.esw.min.js, line 1: TypeError: A.broadcastAPI is undefined
+JavaScript warning: https://www.cengage.com/dashboard/ruxitagentjs_ICA27SVfgjqrux_10189200420175514.js, line 303: Script terminated by timeout at:
+M@https://www.cengage.com/dashboard/ruxitagentjs_ICA27SVfgjqrux_10189200420175514.js:303:73
+N@https://www.cengage.com/dashboard/ruxitagentjs_ICA27SVfgjqrux_10189200420175514.js:304:27
+H@https://www.cengage.com/dashboard/ruxitagentjs_ICA27SVfgjqrux_10189200420175514.js:304:136
+I@https://www.cengage.com/dashboard/ruxitagentjs_ICA27SVfgjqrux_10189200420175514.js:304:449
+Ki@https://www.cengage.com/dashboard/ruxitagentjs_ICA27SVfgjqrux_10189200420175514.js:108:182
+wrapperExecutor@https://www.cengage.com/dashboard/ruxitagentjs_ICA27SVfgjqrux_10189200420175514.js:308:120
+v/a[b]@https://www.cengage.com/dashboard/ruxitagentjs_ICA27SVfgjqrux_10189200420175514.js:305:448
+dispatch@https://www.cengage.com/dashboard/scripts/modules.js?t=1588781407060:2:14183
+add/m.handle@https://www.cengage.com/dashboard/scripts/modules.js?t=1588781407060:2:11242
+trigger@https://www.cengage.com/dashboard/scripts/modules.js?t=1588781407060:2:13577
+simulate@https://www.cengage.com/dashboard/scripts/modules.js?t=1588781407060:2:16845
+n@https://www.cengage.com/dashboard/scripts/modules.js?t=1588781407060:2:18288
+
+JavaScript warning: https://static.mindtap.cengage.com/thirdparty/jquery/2.0.3/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ng.cengage.com/static/nb/ui/evo/bundle.min.js, line 1: TypeError: e.props.userProfileData is undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.mindtap.cengage.com/thirdparty/jquery/2.0.3/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.delmarlearning.com/iq/ui/web/lib/toastr/toastr.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1588898810050	Marionette	INFO	Stopped listening on port 50832
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	Marionette	INFO	Listening on port 51155
+1588891052278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.mindtap.cengage.com/thirdparty/jquery/2.0.3/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ng.cengage.com/static/nb/ui/evo/bundle.min.js, line 1: TypeError: e.props.userProfileData is undefined
+1588891057947	Marionette	INFO	Stopped listening on port 51155
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588897034112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\addik\\AppData\\Local\\Temp\\rust_mozprofileup851M"
+1588897034378	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588897034694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588897034694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588897034694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588897034694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588897036779	Marionette	INFO	Listening on port 51695
+1588897037268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.mindtap.cengage.com/thirdparty/jquery/2.0.3/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ng.cengage.com/static/nb/ui/evo/bundle.min.js, line 1: TypeError: e.props.userProfileData is undefined
+1588897056741	Marionette	INFO	Stopped listening on port 51695
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588898371947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\addik\\AppData\\Local\\Temp\\rust_mozprofileK3AhMQ"
+1588898372207	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588898372495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588898372495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588898372495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588898372495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588898374501	Marionette	INFO	Listening on port 52331
+1588898374576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588898387009	Marionette	INFO	Stopped listening on port 52331
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1588898671533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\addik\\AppData\\Local\\Temp\\rust_mozprofilee3Wnjn"
+1588898671790	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588898672077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588898672077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588898672077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588898672077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588898674073	Marionette	INFO	Listening on port 52540
+1588898674180	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1588898690219	Marionette	INFO	Stopped listening on port 52540
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588898754463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\addik\\AppData\\Local\\Temp\\rust_mozprofile5FwHJ6"
+1588898754726	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588898755015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588898755015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588898755015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588898755015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588898757121	Marionette	INFO	Listening on port 52645
+1588898757612	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.cengage.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.cengage.com"
+1588898799520	Marionette	INFO	Stopped listening on port 52645
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588898851453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\addik\\AppData\\Local\\Temp\\rust_mozprofilehLPXKl"
+1588898851712	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588898851998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588898851998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588898851998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588898851998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588898854021	Marionette	INFO	Listening on port 52849
+1588898854078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588898870405	Marionette	INFO	Stopped listening on port 52849
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588898885548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\addik\\AppData\\Local\\Temp\\rust_mozprofileMM6ouG"
+1588898885826	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588898886120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588898886120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588898886120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588898886120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588898888295	Marionette	INFO	Listening on port 53014
+1588898888661	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1588898905289	Marionette	INFO	Stopped listening on port 53014
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588898919333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\addik\\AppData\\Local\\Temp\\rust_mozprofiles3Mjmu"
+1588898919598	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588898919885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588898919885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588898919885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588898919885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588898921920	Marionette	INFO	Listening on port 53121
+1588898921960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588898929623	Marionette	INFO	Stopped listening on port 53121
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588898963534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\addik\\AppData\\Local\\Temp\\rust_mozprofilemzLN9T"
+1588898963794	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588898964082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588898964082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588898964082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588898964082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588898966025	Marionette	INFO	Listening on port 53222
+1588898966156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cengage.com/?app=cmp line 3524 > scriptElement, line 1: TypeError: score is null
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/session.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/chasitor.esw.min.js, line 1: TypeError: A.broadcastAPI is undefined
+JavaScript error: , line 0: uncaught exception: Object
+1588899250086	Marionette	INFO	Stopped listening on port 53222
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588899099541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588899099542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588899099542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588899099542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588899101649	Marionette	INFO	Listening on port 53529
+1588899102094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/session.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/chasitor.esw.min.js, line 1: TypeError: A.broadcastAPI is undefined
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/session.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/chasitor.esw.min.js, line 1: TypeError: A.broadcastAPI is undefined
+JavaScript error: , line 0: uncaught exception: Object
+1588899251012	Marionette	INFO	Stopped listening on port 53529
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588899164395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588899164395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588899164395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588899164395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588899166639	Marionette	INFO	Listening on port 53780
+1588899166954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/session.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/chasitor.esw.min.js, line 1: TypeError: A.broadcastAPI is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1588899252354	Marionette	INFO	Stopped listening on port 53780
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588899788714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\addik\\AppData\\Local\\Temp\\rust_mozprofileCy7lEF"
+1588899788983	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588899789269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588899789269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588899789270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588899789270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588899791343	Marionette	INFO	Listening on port 54287
+1588899791847	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 277: TypeError: channel.getResponseHeader is not a function
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 277: TypeError: channel.getResponseHeader is not a function
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 277: TypeError: channel.getResponseHeader is not a function
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 277: TypeError: channel.getResponseHeader is not a function
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 277: TypeError: channel.getResponseHeader is not a function
+JavaScript error: https://www.cengage.com/?app=cmp line 3524 > scriptElement, line 1: TypeError: score is null
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 277: TypeError: channel.getResponseHeader is not a function
+1588900094435	Marionette	INFO	Stopped listening on port 54287
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588900068777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588900068777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588900068777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588900068777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588900070703	Marionette	INFO	Listening on port 54606
+1588900070852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588900075551	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588900095902	Marionette	INFO	Stopped listening on port 54606
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588900095145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588900095145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588900095145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588900095146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588900097229	Marionette	INFO	Listening on port 54681
+1588900097697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588900102052	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588900186022	Marionette	INFO	Stopped listening on port 54681
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588900181793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588900181793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588900181793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588900181793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588900183777	Marionette	INFO	Listening on port 54789
+1588900183871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cengage.com/?app=cmp line 3524 > scriptElement, line 1: TypeError: score is null
+JavaScript error: https://www.cengage.com/?app=cmp line 3524 > scriptElement, line 1: TypeError: score is null
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/session.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/chasitor.esw.min.js, line 1: TypeError: A.broadcastAPI is undefined
+JavaScript error: , line 0: uncaught exception: Object
+1588900263423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\addik\\AppData\\Local\\Temp\\rust_mozprofile7zgqu5"
+1588900263696	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588900263998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588900263998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588900263999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588900263999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588900266045	Marionette	INFO	Listening on port 55077
+1588900266062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cengage.com/?app=cmp line 3524 > scriptElement, line 1: TypeError: score is null
+JavaScript error: https://www.cengage.com/?app=cmp line 3524 > scriptElement, line 1: TypeError: score is null
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/session.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/chasitor.esw.min.js, line 1: TypeError: A.broadcastAPI is undefined
+JavaScript error: , line 0: uncaught exception: Object
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1588900353986	Marionette	INFO	Stopped listening on port 55077
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ extension permission: networkStatus
+1588900349688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588900349688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588900349688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588900349688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588900351610	Marionette	INFO	Listening on port 55339
+1588900351781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cengage.com/?app=cmp line 3524 > scriptElement, line 1: TypeError: score is null
+JavaScript error: https://www.cengage.com/?app=cmp line 3524 > scriptElement, line 1: TypeError: score is null
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/session.esw.min.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cengage.my.salesforce.com/embeddedservice/5.0/frame/chasitor.esw.min.js, line 1: TypeError: A.broadcastAPI is undefined
+JavaScript warning: https://static.mindtap.cengage.com/thirdparty/jquery/2.0.3/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:402:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+JavaScript warning: https://static.mindtap.cengage.com/thirdparty/jquery/2.0.3/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1588900638238	Marionette	INFO	Stopped listening on port 55339
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
